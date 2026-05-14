@@ -5,7 +5,7 @@
     --bgColor2:#001f3f;
     --fontFamily: "Cascadian Code", sans-serif;
 }
-
+ 
 *{
     margin:0;
     padding:0;
@@ -19,7 +19,7 @@ body{
     min-height:100vh;
     color:var(--color2);
 }
-
+ 
 header{
     background:var(--bgColor2);
     color:var(--color1);
@@ -38,7 +38,7 @@ main{
     align-items:center;
     padding:20px;
 }
-
+ 
 .container{
     background:var(--color1);
     width:100%;/*largura maxima*/
@@ -87,7 +87,7 @@ main{
     word-wrap:break-word;/*espaçamento entre Palavras*/
     color:var(--color2);
 }
-
+ 
 #lista-historico {
     list-style: none;
     padding: 0;
@@ -99,3 +99,4 @@ footer p{
     justify-content:center;
     font-weight:700;
 }
+ 
